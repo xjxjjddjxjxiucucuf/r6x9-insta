@@ -1,0 +1,10 @@
+Package: com.socuul.scinsta
+Name: R6X9
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: R6X9 - a feature-rich tweak for Instagram on iOS!
+Homepage: https://t.me/STORR6X96
+Maintainer: R6X9
+Author: R6X9
+Section: Tweaks
+Depends: mobilesubstrate
